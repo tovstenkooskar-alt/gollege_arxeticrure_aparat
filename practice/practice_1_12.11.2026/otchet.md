@@ -2,33 +2,10 @@
 
 **Студент:** Товстенко Оскар, группа 9/2-РПО-25/1
 **Дата:** 12.11.2026
-**Симулятор:** Lenovo BIOS Simulator Center, ThinkPad T14s Gen 5 (21LS, 21LT), графический режим
 
 ## 1. Разделы меню
 
 В Setup шесть пунктов: Main, Config, Date/Time, Security, Startup, Restart.
-
-На Main видна сводка машины.
-
-| Поле | Значение |
-|---|---|
-| UEFI BIOS Version | N46ET09W |
-| UEFI BIOS Date | 2024-01-22 |
-| Embedded Controller Version | N46HT10W |
-| ME Firmware Version | XX.X.XX.XXXX |
-| Machine Type Module | 21LS |
-| System-unit serial number | PF12345 |
-| System board serial number | L112345678 |
-| Asset Tag | No Asset Information |
-| CPU Type | Intel(R) Core(TM) CPU |
-| CPU Speed | 1.X00GHz |
-| Installed memory | 8192MB |
-| UUID | 79498acc-3133-11b2-a85c-123412341234 |
-| MAC Address (Internal LAN) | 54 XX 75 XX 31 XX |
-| Preinstalled OS License | XX |
-| UEFI Secure Boot | On |
-| OA3 ID | XX |
-
 ![Раздел Main](img/03-main.png)
 
 Где лежат настройки из задач 2–5:
